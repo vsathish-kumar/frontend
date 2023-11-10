@@ -1,6 +1,7 @@
 function Value(arr)
 {
-a= arr[0]
+i= arr.length - 1;
+a=arr[i];
 console.log(a)
 }
 Value([15, 22, 31])
