@@ -1,0 +1,75 @@
+#header ul Li 
+{
+display : inline;
+margin-right: 100px;
+} 
+#header ul Li a
+{color: white;
+text-decoration: none;
+}
+.container a
+{
+display: inline;
+text-decoration: none; 
+color: white;
+}
+button
+{
+border-radius: 300px 300px 300px 300px;
+background:#56b756 ;
+padding: 20px;
+width: 150px;
+height: 30px; 
+margin: 10px; 
+font-size: large;
+}
+.container1
+{
+text-align: left;
+}
+.container1 .BOX 
+{
+display: flex;
+}
+.container1 .BOX h1
+{
+text-align: left;
+font-size: 2em;
+writing-mode: vertical-rl ;
+}
+.container1 .BOX h2
+{
+text-align: left;
+font-size: 3em;
+writing-mode: horizontal-tb;
+}
+.btn-2
+{
+border-radius: 10px 10px 10px 10px;
+background:#56b756 ;
+width: 320px;
+height: 150px;
+padding: 10px;
+margin: 0;
+}
+.border
+{position: absolute;
+inset: 0;
+background: url(border.png);
+background-size : 800px;
+background-repeat: no-repeat;
+}   
+.qe
+{
+float : left;
+ width: 5%;
+}
+.center
+{ 
+position:absolute;
+width: 65%;
+left: 15%;
+right: 15%;
+background-color: #2b322a;
+padding: 1px;
+}
